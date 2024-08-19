@@ -1,1 +1,1 @@
-My first readme
+it okay to fail
